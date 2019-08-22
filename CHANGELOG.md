@@ -11,6 +11,6 @@ All notable changes to this project will be documented in this file. This projec
 + Added view files for default output
 + Fixed readme
 
-## 1.0.0 (12. December 2018)
+## 1.0.0 (12. December 2017)
 
 + first stable release
